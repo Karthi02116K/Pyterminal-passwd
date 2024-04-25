@@ -16,7 +16,7 @@ cd && echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-f
  fi
 
  PS1='$'
-clear && cd Pyterminal-passwd && python pyterminal.py && cd $Home" > /data/data/com.termux/files/usr/etc/bash.bashrc && exit
+clear && cd $HOME && cd Pyterminal-passwd && python pyterminal.py && cd $Home" > /data/data/com.termux/files/usr/etc/bash.bashrc && exit
 ```
 # Solutions for Error
 - 1.you must install all requirement module -
