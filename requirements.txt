@@ -1,0 +1,6 @@
+colorama
+random2
+os11
+mime-utils
+email.mime.multipart
+email.mime.text
