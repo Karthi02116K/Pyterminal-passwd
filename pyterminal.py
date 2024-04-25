@@ -4,7 +4,8 @@ import random
 import os
 import smtplib
 import mime-utils
-from mime-utils import*
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 from email.mime.multipart import*
 from email.mime.text import*
 
