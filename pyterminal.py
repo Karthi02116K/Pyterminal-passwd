@@ -3,8 +3,10 @@ from colorama import Fore, Back, Style
 import random
 import os
 import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+import mime-utils
+from mime-utils import*
+from email.mime.multipart import*
+from email.mime.text import*
 
 #colours
 R=Fore.RED
