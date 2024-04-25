@@ -1,7 +1,10 @@
 # Pyterminal-passwd
 Pyterminal-passwd is one of the terminal password tool 
+
 # Installation 
 you must install all python module in latest version 
+
+pip install -r requirements.txt
 git clone https://github.com/Karthi02116K/Pyterminal-passwd.git
 
 # Set up Terminal
